@@ -1,0 +1,10 @@
+test
+:wq
+
+
+:wq!
+:q!
+i test text
+
+:q!
+
